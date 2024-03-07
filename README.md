@@ -71,10 +71,10 @@ Here are some ideas to get you started:
 <!-- Sanjukta_README.md
 Displaying Sanjukta_README.md. -->
 
-![Header](/Users/jaskirat/Downloads/Sanjukta_profile.png)
-<img src="/Users/jaskirat/Desktop/Sanjukta_underline.gif" height="20" width="100%">
+![Header](./Sanjukta_profile.png)
+<img src="./Sanjukta_underline.gif" height="20" width="100%">
 
-<img align="right" alt="GIF" src="/Users/jaskirat/Desktop/Sanjukta_github_1.gif" width="240" height="180"/>
+<img align="right" alt="GIF" src="./Sanjukta_4.gif" width="240" height="180"/>
 
 ## About me
 - I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
