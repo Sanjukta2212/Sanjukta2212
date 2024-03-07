@@ -74,7 +74,7 @@ Displaying Sanjukta_README.md. -->
 ![Header](./Sanjukta_profile.png)
 <img src="./Sanjukta_underline.gif" height="20" width="100%">
 
-<img align="right" alt="GIF" src="./Sanjukta_4.gif" width="300" height="240"/>
+<img align="right" alt="GIF" src="./Sanjukta_4.gif" width="280" height="220"/>
 
 ## About me
 - I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
