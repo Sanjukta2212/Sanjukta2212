@@ -108,6 +108,7 @@ Displaying Sanjukta_README.md. -->
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjuktabaruah/)
 [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:sanjuktabaruah5@gmail.com)
+[<img src = "https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sanjuktabaruah5)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sanjuktabaruah/)
 <!-- [<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/) -->
 
