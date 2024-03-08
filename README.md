@@ -77,19 +77,17 @@ Displaying Sanjukta_README.md. -->
 <img align="right" alt="GIF" src="./Sanjukta_4.gif" width="240" height="180"/>
 
 ## About me
-- I am currently pursuing an M.S. in Data Science degree from University at Buffalo--SUNY
-- I have 4.5 years of experience in the software industry, specializing in big data solutions
-- I am constantly motivated by the potential to create value from data
-- In my free time, I love to play different sports like Badminton, Cricket, and Football
+- Final year Data Science grad at State University of New York at Buffalo 🎓
+- 3+ years professional experience as a cloud engineer specialized in Azure at a Fortune 500 company 💼
+- Passionate about data-driven insights and automation 🔍
+- Proficient in Python, R, Azure, Big Data, and ML frameworks 🐍📊
+- Open to collaborating on innovative projects for positive impact 🚀
 
 ## Skills
-- **Programming Languages and Databases:**  Python, MySQL, PostgreSQL, MongoDB, Scala, R, Bash 
-- **Big Data:** Apache Spark, Hadoop, Airflow, SQL, Superset, Tableau, Snowflake, Kafka, ETL, DBT
-- **Cloud Platform:**
- - **AWS:** Glue, Step Functions, Lambdas, S3, Athena, Sagemaker, EC2, EMR, SNS, SQS, Redshift, Cloudwatch, IAM
-- **Libraries:** PySpark, Boto3, Sklearn, Pandas, NumPy, Deequ, Great Expectations, Matplotlib, Keras, NLTK, Gensim, PyTorch
-- **Other tools:** CI/CD, Docker, Terraform, IaC, Agile, Git, GitHub, GitLab, Jupyter Notebook, Linux
-- **Competent in*** Data Analysis, Data Engineering, Databases, Data Modelling, Data Visualization, and Machine Learning
+- **Programming Languages and Databases:**  Databases Python, SQL, R, Matlab, Powershell script, ARM Template, MongoDB 
+- **Cloud - Azure:** Data Factory, Data Brick, Data Lake Services, Data Brick, Synapse Analytics, Power BI, Virtual Machines, Kubernetes, Data Warehousing, DevOps, Microsoft Dynamics, Active Directory, Data Governance, Dashboard, Policy making, Active Directory, Networking Solutions, Security Center, Log Analytics
+- **Libraries:** PyTorch, NLTK, NumPy, Matplotlib, Keras, PySpark, Seaborn, Scikit-Learn, Pandas, Turi Create
+- **Other tools:** CI/CD, Docker, Terraform, Agile(Scrum / Kanban), Git, DevOps, Jenkins, JIRA
 
 
 [![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212)](https://github.com/Sanjukta2212/github-readme-stats)
