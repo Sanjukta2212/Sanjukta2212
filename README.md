@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!-- Sanjukta_README.md
 Displaying Sanjukta_README.md. -->
 
-![Header](./Sanjukta_profile.png)
+![Header](./temp_.png)
 <img src="./Sanjukta_underline.gif" height="20" width="100%">
 
 <img align="right" alt="GIF" src="./Sanjukta_4.gif" width="240" height="180"/>
