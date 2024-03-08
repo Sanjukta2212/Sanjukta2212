@@ -74,7 +74,7 @@ Displaying Sanjukta_README.md. -->
 ![Header](./temp_.png)
 <img src="./Sanjukta_underline.gif" height="20" width="100%">
 
-<img align="right" alt="GIF" src="./Sanjukta_4.gif" width="240" height="180"/>
+
 
 ## About me
 - Final year Data Science grad at State University of New York at Buffalo 🎓
@@ -83,7 +83,7 @@ Displaying Sanjukta_README.md. -->
   
 - Passionate about data-driven insights and automation 🔍
   
-- Proficient in Python, R, Azure, Big Data, and ML frameworks 🐍📊
+- Proficient in Python, R, Azure, Big Data, and ML frameworks 🐍📊    
   
 - Open to collaborating on innovative projects for positive impact 🚀
 
@@ -100,7 +100,7 @@ Displaying Sanjukta_README.md. -->
 - **Other Tools:** CI/CD, Docker, Terraform, Agile (Scrum / Kanban), Git, DevOps, Jenkins, JIRA
 
 
-[![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212)](https://github.com/Sanjukta2212/github-readme-stats)
+[![Sanjukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212)](https://github.com/Sanjukta2212/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjukta2212&layout=donut)](https://github.com/Sanjukta2212/github-readme-stats)
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=Sanjukta2212&color=orange)
