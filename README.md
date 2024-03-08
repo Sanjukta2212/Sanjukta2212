@@ -78,16 +78,26 @@ Displaying Sanjukta_README.md. -->
 
 ## About me
 - Final year Data Science grad at State University of New York at Buffalo 🎓
+  
 - 3+ years professional experience as a cloud engineer specialized in Azure at a Fortune 500 company 💼
+  
 - Passionate about data-driven insights and automation 🔍
+  
 - Proficient in Python, R, Azure, Big Data, and ML frameworks 🐍📊
+  
 - Open to collaborating on innovative projects for positive impact 🚀
 
 ## Skills
-- **Programming Languages and Databases:**  Databases Python, SQL, R, Matlab, Powershell script, ARM Template, MongoDB 
-- **Cloud - Azure:** Data Factory, Data Brick, Data Lake Services, Data Brick, Synapse Analytics, Power BI, Virtual Machines, Kubernetes, Data Warehousing, DevOps, Microsoft Dynamics, Active Directory, Data Governance, Dashboard, Policy making, Active Directory, Networking Solutions, Security Center, Log Analytics
+
+- **Cloud - Azure:** Data Factory, Data Brick, Data Lake Services, Synapse Analytics, Power BI, Virtual Machines, Kubernetes, Data Warehousing, DevOps, Microsoft Dynamics, Active Directory, Data Governance
+
+- **Languages - Databases:** Python, SQL, R, Matlab, Powershell script, ARM Template, MongoDB
+
 - **Libraries:** PyTorch, NLTK, NumPy, Matplotlib, Keras, PySpark, Seaborn, Scikit-Learn, Pandas, Turi Create
-- **Other tools:** CI/CD, Docker, Terraform, Agile(Scrum / Kanban), Git, DevOps, Jenkins, JIRA
+
+- **Big Data Tools:** Apache Spark, Hadoop, Trino SQL, Airflow, Kafka, Tableau, SSRS, Advanced Excel, ETL, Snowflake
+
+- **Other Tools:** CI/CD, Docker, Terraform, Agile (Scrum / Kanban), Git, DevOps, Jenkins, JIRA
 
 
 [![Jaskirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212)](https://github.com/Sanjukta2212/github-readme-stats)
