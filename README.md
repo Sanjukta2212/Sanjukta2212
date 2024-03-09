@@ -104,7 +104,7 @@ Displaying Sanjukta_README.md. -->
 
 
 [![Sanjukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212&theme=shadow_blue)]((https://github.com/Sanjukta2212/github-readme-stats))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjukta2212&layout=donut&theme=shadow_blue)](https://github.com/Sanjukta2212/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjukta2212&layout=donut&theme=shadow_blue)](https://github.com/Sanjukta2212/github-readme-stats)-->
 
 ![Profile View Count](https://komarev.com/ghpvc/?username=Sanjukta2212&theme=shadow_blue)
 
