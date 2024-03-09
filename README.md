@@ -74,6 +74,9 @@ Displaying Sanjukta_README.md. -->
 ![Header](./temp_.png)
 <img src="./Sanjukta_underline.gif" height="20" width="100%">
 
+[<img src = "https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sanjuktabaruah5)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjuktabaruah/)
+[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:sanjuktabaruah5@gmail.com)
 
 
 ## About me
@@ -100,10 +103,10 @@ Displaying Sanjukta_README.md. -->
 - **Other Tools:** CI/CD, Docker, Terraform, Agile (Scrum / Kanban), Git, DevOps, Jenkins, JIRA
 
 
-[![Sanjukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212)](https://github.com/Sanjukta2212/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjukta2212&layout=donut)](https://github.com/Sanjukta2212/github-readme-stats)
+[![Sanjukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212&theme=shadow_blue)]((https://github.com/Sanjukta2212/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjukta2212&layout=donut&theme=shadow_blue)](https://github.com/Sanjukta2212/github-readme-stats)
 
-![Profile View Count](https://komarev.com/ghpvc/?username=Sanjukta2212&color=orange)
+![Profile View Count](https://komarev.com/ghpvc/?username=Sanjukta2212&theme=shadow_blue)
 
 
 
@@ -114,10 +117,7 @@ Displaying Sanjukta_README.md. -->
 - Bachelor of Technology in Electronics and Communication Engineering - Dibrugarh University (DUIET) 
   - CGPA - 7.81 / 10.0
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sanjuktabaruah/)
-[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:sanjuktabaruah5@gmail.com)
-[<img src = "https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@sanjuktabaruah5)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sanjuktabaruah/)
+<!--[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sanjuktabaruah/)-->
 <!-- [<img src = "https://img.shields.io/badge/tableau-%E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/profile/jaskirat.singh.pahwa#!/) -->
 
 
