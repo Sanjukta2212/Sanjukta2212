@@ -82,7 +82,7 @@ Displaying Sanjukta_README.md. -->
 
 
 ## About me
-- Final year Data Science grad at State University of New York at Buffalo 🎓
+- Master's in Data Science from State University of New York at Buffalo 🎓
   
 - 3+ years professional experience as a cloud engineer specialized in Azure at a Fortune 500 company 💼
   
