@@ -85,7 +85,7 @@ Displaying Sanjukta_README.md. -->
 
 ## About me
   
-- Senior Enterprise Data Analyst at Shelter Insurance with 4+ years of technical experience in data analytics, predictive modeling ⚙️📊
+- Senior Enterprise Data Analyst with 4+ years of technical experience in data analytics, predictive modeling ⚙️📊
   
 - Built data governance from scratch, ensuring quality, compliance, and accessibility 📊🔒
 
