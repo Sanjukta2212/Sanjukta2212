@@ -84,9 +84,16 @@ Displaying Sanjukta_README.md. -->
 
 
 ## About me
-- Master's in Data Science from State University of New York at Buffalo 🎓
   
-- 3+ years professional experience as a cloud engineer specialized in Azure at a Fortune 500 company 💼
+- Senior Enterprise Data Analyst at Shelter Insurance with 4+ years of technical experience in data analytics, predictive modeling ⚙️📊
+  
+- Built data governance from scratch, ensuring quality, compliance, and accessibility 📊🔒
+
+- Built a real-time 360° Customer Insurance Profile, unifying 80 years of legacy data across 15+ business units 🔄👥
+
+- Delivered consolidated customer insights to support enterprise-wide decision-making and drive business impact 📈
+
+- Master's in Data Science from State University of New York at Buffalo 🎓
   
 - Passionate about data-driven insights and automation 🔍
   
@@ -102,9 +109,9 @@ Displaying Sanjukta_README.md. -->
 
 - **Libraries:** PyTorch, NLTK, NumPy, Matplotlib, Keras, PySpark, Seaborn, Scikit-Learn, Pandas, Turi Create
 
-- **Big Data Tools:** Apache Spark, Hadoop, Trino SQL, Airflow, Kafka, Tableau, SSRS, Advanced Excel, ETL, Snowflake
+- **Big Data Tools:** Apache Spark, Hadoop, Airflow, Kafka, Tableau, SSRS, Advanced Excel, ETL, Snowflake, Atlan, Appian
 
-- **Other Tools:** CI/CD, Docker, Terraform, Agile (Scrum / Kanban), Git, DevOps, Jenkins, JIRA
+- **Other Tools:** CI/CD, Git, DevOps, JIRA
 
 
 [![Sanjukta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjukta2212&theme=shadow_blue)]((https://github.com/Sanjukta2212/github-readme-stats))
