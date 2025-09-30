@@ -1,6 +1,8 @@
 <!-- ### Hi there 👋, I am Sanjukta Baruah.
 
-I'm a passionate Data Science grad with a strong cloud engineering background. Excited about data-driven insights and automation. Proficient in Python, R, Azure, and various ML frameworks. Skilled in regression, classification, clustering, and more. Let's collaborate on innovative projects and drive positive impact! 💻🚀 Open to learning and always eager to explore new technologies and methodologies. Connect with me to geek out on data science and build awesome solutions together! 😄📊
+I’m a Senior Enterprise Data Analyst at Shelter Insurance with 4+ years of industry experience and a Master’s in Data Science. My work bridges data science, cloud engineering, and enterprise data analytics, turning complex data into actionable insights that drive measurable business impact.
+
+With a strong foundation in Python, R, SQL (Snowflake & DBT), Appian, Atlan and Azure, I’ve built solutions ranging from predictive modeling to data governance frameworks that empower decision-making at scale.Excited about data-driven insights and automation. Skilled in regression, classification, clustering, and more. Let's collaborate on innovative projects and drive positive impact! 💻🚀 Open to learning and always eager to explore new technologies and methodologies. Connect with me to geek out on data science and build awesome solutions together! 😄📊
 
 ### Skills
 #### Language:
